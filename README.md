@@ -4,7 +4,7 @@
 
 ### This repo contains practices of Data Analysis and Machine Learning on different kind of datasets. 
 
-#### It contains following interesting machine learning pracice:
+#### It contains following interesting machine learning practice:
 
 - Linear Regression on Cycle Powerplant Dataset
 - KNN Classification on Banknote Authentication Dataset
